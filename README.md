@@ -19,3 +19,7 @@ Please mirror the structure of this repository:
 └───task_2
         solution.py
 ```
+Also, follow the [GIT Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) guidelines in your repository.
+1. There should be a separate branch for each task
+2. A PULL request should be created for each branch into main/master
+3. Merge the PULL request
