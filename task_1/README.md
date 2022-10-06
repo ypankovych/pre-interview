@@ -15,3 +15,5 @@ Result sample:
    }
 }
 ```
+
+Use CSV file [provided in this repository](data.csv).
