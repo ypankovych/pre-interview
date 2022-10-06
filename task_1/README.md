@@ -12,7 +12,8 @@ Result sample:
   "USA": {
     "people": ["Bob", "Chris", ...],
     "count": 2
-   }
+   },
+   ...
 }
 ```
 
